@@ -1,0 +1,203 @@
+[
+  {
+    "question": "What is the purpose of this API?",
+    "type": "general"
+  },
+  {
+    "question": "What is the host URL for the API?",
+    "type": "general"
+  },
+  {
+    "question": "What is the name of the API?",
+    "type": "general"
+  },
+  {
+    "question": "What is this API designed to do?",
+    "type": "general"
+  },
+  {
+    "question": "Where is this API hosted?",
+    "type": "general"
+  },
+  {
+    "question": "Is there a description provided for the API?",
+    "type": "general"
+  },
+  {
+    "question": "How many different endpoints are available in the API?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Name 5 endpoints in the API.",
+    "type": "endpoint"
+  },
+  {
+    "question": "Name three endpoints that use the GET method.",
+    "type": "endpoint"
+  },
+  {
+    "question": "Name an endpoint that supports both GET and POST methods.",
+    "type": "endpoint"
+  },
+  {
+    "question": "Name one endpoint that supports POST method.",
+    "type": "endpoint"
+  },
+  {
+    "question": "Name one endpoint that does not need any parameter.",
+    "type": "endpoint"
+  },
+  {
+    "question": "Is there any endpoint that allows logging in?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Name an endpoint that has multiple methods.",
+    "type": "endpoint"
+  },
+  {
+    "question": "What is the first endpoint in the API?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What does the last endpoint in the API do?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Give examples of parameters for the {endpoint} endpoint.",
+    "type": "endpoint"
+  },
+  {
+    "question": "What does the endpoint {endpoint} do?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What is the purpose of the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Can you explain the functionality of the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What parameters are accepted by the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What are the names of the required parameters for the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Explain what the parameters of the {endpoint} endpoint do.",
+    "type": "endpoint"
+  },
+  {
+    "question": "How many parameters does the {endpoint} endpoint use?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Which parameters are required for the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Are there any optional parameters for the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Can the {endpoint} endpoint be called without parameters?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What is the purpose of each parameter in the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Do the parameters of the {endpoint} endpoint have default values?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Give examples of parameters that can be used with the {endpoint} endpoint.",
+    "type": "endpoint"
+  },
+  {
+    "question": "What is the data type for the parameters of the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Does the {endpoint} endpoint support multiple HTTP methods?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Are there any default values for the parameters in the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What HTTP method does the {endpoint} endpoint use?",
+    "type": "endpoint"
+  },
+  {
+    "question": "how many different HTTP methods can be used with the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "How many total endpoints are defined in the API?",
+    "type": "endpoint"
+  },
+  {
+    "question": "List all HTTP methods used in the API.",
+    "type": "endpoint"
+  },
+  {
+    "question": "Does the API include any endpoint that uses the DELETE method?",
+    "type": "endpoint"
+  },
+  {
+    "question": "How many endpoints use the POST method?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What is the path of the first endpoint listed?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Which endpoints have no required parameters?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Which endpoints accept query parameters?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Does any endpoint accept a request body?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Is there an endpoint named /login or similar?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Does the {endpoint} endpoint accept a POST method?",
+    "type": "endpoint"
+  },
+  {
+    "question": "How many parameters are defined for the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What are the required parameters for the {endpoint} endpoint?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Is the {endpoint} endpoint tagged under any specific category?",
+    "type": "endpoint"
+  },
+  {
+    "question": "What content types does the {endpoint} endpoint consume?",
+    "type": "endpoint"
+  },
+  {
+    "question": "Does the API use HTTPS?",
+    "type": "general"
+  }
+]
+
