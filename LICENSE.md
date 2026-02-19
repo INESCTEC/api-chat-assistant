@@ -20,7 +20,7 @@ This program makes use and is distributed with the following libraries:
 * NumPy (https://pypi.org/project/numpy/
 * Ollama (https://ollama.com/search)
 
-You can reach INESC TEC Technology Licensing Office (TLO) at info.sal@inesctec.pt, or
+You can reach INESC TEC Technology Transfer Office (TTO) at tech-transfer@inesctec.pt, or
 Campus da Faculdade de Engenharia da Universidade do Porto
 Rua Dr. Roberto Frias
 4200-465 Porto
